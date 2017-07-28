@@ -29,9 +29,6 @@ PRODUCT_BRAND := Lenovo
 PRODUCT_MODEL := Lenovo A6000
 PRODUCT_MANUFACTURER := Lenovo
 
-#Official
-KBUILD_BUILD_HOST := Saturn
-KBUILD_BUILD_USER := Savitar
 
 # Build fingerprint
 PRODUCT_BUILD_PROP_OVERRIDES += \
