@@ -1,23 +1,22 @@
 [
   {
+    "remote": "github",
     "repository": "Cosmic-Devices/android_device_cyanogen_msm8916-common",
     "target_path": "device/cyanogen/msm8916-common"
   },
   {
+    "remote": "github",
     "repository": "android_external_stlport",
     "target_path": "external/stlport"
   },
-   {
-    "repository": "Cosmic-Devices/cosmic_lenovo_a6000",
-    "target_path": "device/lenovo/a6000",
-    "branch": "n-mr2"
-  },
   {
+    "remote": "github",
     "repository": "mayankbali/proprietary-vendor_lenovo",
     "target_path": "vendor/lenovo",
     "branch": "cm-14.1"
   },
   {
+    "remote": "github",
     "repository": "Cosmic-Devices/kernel_lenovo_msm8916",
     "target_path": "kernel/lenovo/a6000",
     "branch": "n"
